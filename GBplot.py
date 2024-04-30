@@ -1,10 +1,10 @@
 
 
 # ======================================================================================================
-# Simulation : terre du grand bara
+# Simulation : Grand Bara land
 # Code written by:
-#   M. Nassim AM
-#   Université de Bordeaux, France
+#   Ing. Nassim AM
+#   Université.., France
 # See Copyright Notice in COPYRIGHT
 # HowTo in README.md
 # ======================================================================================================
